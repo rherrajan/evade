@@ -1,0 +1,10 @@
+MIDlet-1: Evade,/ball_blue.png,evade.multi.EvadeMultiplayer
+MIDlet-Jar-URL: Evade.jar
+MIDlet-Icon: --- MIDlet icon---
+MicroEdition-Configuration: CLDC-1.1
+MIDlet-Version: 1.0.1
+MIDlet-Vendor: Roland
+MIDlet-Name: Evade
+MIDlet-Description: --- MIDlet Description ---
+MIDlet-Info-URL: --- MIDlet iourl---
+MicroEdition-Profile: MIDP-2.0
